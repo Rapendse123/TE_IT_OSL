@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OSL"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Users/USER/CLionProjects/OSL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OSL">
+				<Option output="D:/Users/USER/CLionProjects/OSL/cmake-build-debug/OSL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Users/USER/CLionProjects/OSL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 OSL"/>
+					<CompileFile command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OSL/fast">
+				<Option output="D:/Users/USER/CLionProjects/OSL/cmake-build-debug/OSL.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Users/USER/CLionProjects/OSL/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 OSL/fast"/>
+					<CompileFile command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Users/USER/CLionProjects/OSL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Users/USER/CLionProjects/OSL/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;D:/Users/USER/CLionProjects/OSL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A1b/A1b_address_book.sh">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2a/A2a_orphan.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2a/A2a_zombie.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2a/orphan.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2a/zombie.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2b/A2b_child.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2b/A2b_parent.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin.cpp">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_using_queue.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_sjf_without_arrival_time.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_with_arrival_time.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A4a/A4a_producer_consumer.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A4b/A4b_reader_writer.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A5/A5.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A5/A5_bankers_algo.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A6/A6_fifo.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A6/A6_lru.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A7a/A7a_fifo1.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A7a/A7a_fifo2.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A7b/A7b_reader.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A7b/A7b_writer.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A8.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/main.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough2.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough3.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough4.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough5.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/rough6.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

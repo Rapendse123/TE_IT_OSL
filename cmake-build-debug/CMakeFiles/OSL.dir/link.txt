@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2020.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\OSL.dir/objects.a
+D:\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\OSL.dir/objects.a @CMakeFiles\OSL.dir\objects1.rsp
+D:\CodeBlocks\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\OSL.dir/objects.a -Wl,--no-whole-archive  -o OSL.exe -Wl,--out-implib,libOSL.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OSL.dir\linklibs.rsp

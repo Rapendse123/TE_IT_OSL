@@ -1,0 +1,3 @@
+D:/Users/USER/CLionProjects/OSL/cmake-build-debug/CMakeFiles/OSL.dir
+D:/Users/USER/CLionProjects/OSL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/USER/CLionProjects/OSL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
