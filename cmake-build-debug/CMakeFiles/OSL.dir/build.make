@@ -102,18 +102,18 @@ CMakeFiles/OSL.dir/rough.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/rough.c.s"
 	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\rough.c -o CMakeFiles\OSL.dir\rough.c.s
 
-CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj: CMakeFiles/OSL.dir/flags.make
-CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj: ../A3/A3_srtf_with_arrival_time.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time.c
+CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj: ../A3/A3_srtf_with_arrival_time_FINAL.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time_FINAL.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time_FINAL.c
 
-CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.i"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time.c > CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time.c.i
+CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time_FINAL.c > CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time_FINAL.c.i
 
-CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.s"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time.c -o CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time.c.s
+CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_with_arrival_time_FINAL.c -o CMakeFiles\OSL.dir\A3\A3_srtf_with_arrival_time_FINAL.c.s
 
 CMakeFiles/OSL.dir/A5/A5.c.obj: CMakeFiles/OSL.dir/flags.make
 CMakeFiles/OSL.dir/A5/A5.c.obj: ../A5/A5.c
@@ -128,18 +128,18 @@ CMakeFiles/OSL.dir/A5/A5.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A5/A5.c.s"
 	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A5\A5.c -o CMakeFiles\OSL.dir\A5\A5.c.s
 
-CMakeFiles/OSL.dir/A8.c.obj: CMakeFiles/OSL.dir/flags.make
-CMakeFiles/OSL.dir/A8.c.obj: ../A8.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/OSL.dir/A8.c.obj"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A8.c.obj   -c D:\Users\USER\CLionProjects\OSL\A8.c
+CMakeFiles/OSL.dir/A8/A8.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A8/A8.c.obj: ../A8/A8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/OSL.dir/A8/A8.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A8\A8.c.obj   -c D:\Users\USER\CLionProjects\OSL\A8\A8.c
 
-CMakeFiles/OSL.dir/A8.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A8.c.i"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A8.c > CMakeFiles\OSL.dir\A8.c.i
+CMakeFiles/OSL.dir/A8/A8.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A8/A8.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A8\A8.c > CMakeFiles\OSL.dir\A8\A8.c.i
 
-CMakeFiles/OSL.dir/A8.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A8.c.s"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A8.c -o CMakeFiles\OSL.dir\A8.c.s
+CMakeFiles/OSL.dir/A8/A8.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A8/A8.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A8\A8.c -o CMakeFiles\OSL.dir\A8\A8.c.s
 
 CMakeFiles/OSL.dir/A2a/A2a_orphan.c.obj: CMakeFiles/OSL.dir/flags.make
 CMakeFiles/OSL.dir/A2a/A2a_orphan.c.obj: ../A2a/A2a_orphan.c
@@ -232,18 +232,18 @@ CMakeFiles/OSL.dir/rough3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/rough3.c.s"
 	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\rough3.c -o CMakeFiles\OSL.dir\rough3.c.s
 
-CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj: CMakeFiles/OSL.dir/flags.make
-CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj: ../A3/A3_round_robin_.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_round_robin_.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_.c
+CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj: ../A3/A3_round_robin.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_round_robin.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin.c
 
-CMakeFiles/OSL.dir/A3/A3_round_robin_.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_round_robin_.c.i"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_.c > CMakeFiles\OSL.dir\A3\A3_round_robin_.c.i
+CMakeFiles/OSL.dir/A3/A3_round_robin.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_round_robin.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin.c > CMakeFiles\OSL.dir\A3\A3_round_robin.c.i
 
-CMakeFiles/OSL.dir/A3/A3_round_robin_.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_round_robin_.c.s"
-	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_.c -o CMakeFiles\OSL.dir\A3\A3_round_robin_.c.s
+CMakeFiles/OSL.dir/A3/A3_round_robin.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_round_robin.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin.c -o CMakeFiles\OSL.dir\A3\A3_round_robin.c.s
 
 CMakeFiles/OSL.dir/rough4.c.obj: CMakeFiles/OSL.dir/flags.make
 CMakeFiles/OSL.dir/rough4.c.obj: ../rough4.c
@@ -440,13 +440,104 @@ CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.s"
 	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_using_queue.c -o CMakeFiles\OSL.dir\A3\A3_round_robin_using_queue.c.s
 
+CMakeFiles/OSL.dir/A8/A8_sstf.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A8/A8_sstf.c.obj: ../A8/A8_sstf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/OSL.dir/A8/A8_sstf.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A8\A8_sstf.c.obj   -c D:\Users\USER\CLionProjects\OSL\A8\A8_sstf.c
+
+CMakeFiles/OSL.dir/A8/A8_sstf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A8/A8_sstf.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A8\A8_sstf.c > CMakeFiles\OSL.dir\A8\A8_sstf.c.i
+
+CMakeFiles/OSL.dir/A8/A8_sstf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A8/A8_sstf.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A8\A8_sstf.c -o CMakeFiles\OSL.dir\A8\A8_sstf.c.s
+
+CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj: ../A5/A5_FINAL.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A5\A5_FINAL.c.obj   -c D:\Users\USER\CLionProjects\OSL\A5\A5_FINAL.c
+
+CMakeFiles/OSL.dir/A5/A5_FINAL.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A5/A5_FINAL.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A5\A5_FINAL.c > CMakeFiles\OSL.dir\A5\A5_FINAL.c.i
+
+CMakeFiles/OSL.dir/A5/A5_FINAL.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A5/A5_FINAL.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A5\A5_FINAL.c -o CMakeFiles\OSL.dir\A5\A5_FINAL.c.s
+
+CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj: ../A3/A3_round_robin_FINAL.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_round_robin_FINAL.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_FINAL.c
+
+CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_FINAL.c > CMakeFiles\OSL.dir\A3\A3_round_robin_FINAL.c.i
+
+CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_round_robin_FINAL.c -o CMakeFiles\OSL.dir\A3\A3_round_robin_FINAL.c.s
+
+CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj: ../A6/A6_FINAL.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A6\A6_FINAL.c.obj   -c D:\Users\USER\CLionProjects\OSL\A6\A6_FINAL.c
+
+CMakeFiles/OSL.dir/A6/A6_FINAL.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A6/A6_FINAL.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A6\A6_FINAL.c > CMakeFiles\OSL.dir\A6\A6_FINAL.c.i
+
+CMakeFiles/OSL.dir/A6/A6_FINAL.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A6/A6_FINAL.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A6\A6_FINAL.c -o CMakeFiles\OSL.dir\A6\A6_FINAL.c.s
+
+CMakeFiles/OSL.dir/A2b/parent.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A2b/parent.c.obj: ../A2b/parent.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/OSL.dir/A2b/parent.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A2b\parent.c.obj   -c D:\Users\USER\CLionProjects\OSL\A2b\parent.c
+
+CMakeFiles/OSL.dir/A2b/parent.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A2b/parent.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A2b\parent.c > CMakeFiles\OSL.dir\A2b\parent.c.i
+
+CMakeFiles/OSL.dir/A2b/parent.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A2b/parent.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A2b\parent.c -o CMakeFiles\OSL.dir\A2b\parent.c.s
+
+CMakeFiles/OSL.dir/A2b/child.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A2b/child.c.obj: ../A2b/child.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/OSL.dir/A2b/child.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A2b\child.c.obj   -c D:\Users\USER\CLionProjects\OSL\A2b\child.c
+
+CMakeFiles/OSL.dir/A2b/child.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A2b/child.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A2b\child.c > CMakeFiles\OSL.dir\A2b\child.c.i
+
+CMakeFiles/OSL.dir/A2b/child.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A2b/child.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A2b\child.c -o CMakeFiles\OSL.dir\A2b\child.c.s
+
+CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj: CMakeFiles/OSL.dir/flags.make
+CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj: ../A3/A3_srtf_FINAL.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\OSL.dir\A3\A3_srtf_FINAL.c.obj   -c D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_FINAL.c
+
+CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.i"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_FINAL.c > CMakeFiles\OSL.dir\A3\A3_srtf_FINAL.c.i
+
+CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.s"
+	D:\CodeBlocks\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Users\USER\CLionProjects\OSL\A3\A3_srtf_FINAL.c -o CMakeFiles\OSL.dir\A3\A3_srtf_FINAL.c.s
+
 # Object files for target OSL
 OSL_OBJECTS = \
 "CMakeFiles/OSL.dir/main.c.obj" \
 "CMakeFiles/OSL.dir/rough.c.obj" \
-"CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj" \
+"CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj" \
 "CMakeFiles/OSL.dir/A5/A5.c.obj" \
-"CMakeFiles/OSL.dir/A8.c.obj" \
+"CMakeFiles/OSL.dir/A8/A8.c.obj" \
 "CMakeFiles/OSL.dir/A2a/A2a_orphan.c.obj" \
 "CMakeFiles/OSL.dir/A2a/A2a_zombie.c.obj" \
 "CMakeFiles/OSL.dir/A2b/A2b_child.c.obj" \
@@ -454,7 +545,7 @@ OSL_OBJECTS = \
 "CMakeFiles/OSL.dir/A3/A3_sjf_without_arrival_time.c.obj" \
 "CMakeFiles/OSL.dir/rough2.c.obj" \
 "CMakeFiles/OSL.dir/rough3.c.obj" \
-"CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj" \
+"CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj" \
 "CMakeFiles/OSL.dir/rough4.c.obj" \
 "CMakeFiles/OSL.dir/A4a/A4a_producer_consumer.c.obj" \
 "CMakeFiles/OSL.dir/A4b/A4b_reader_writer.c.obj" \
@@ -469,16 +560,23 @@ OSL_OBJECTS = \
 "CMakeFiles/OSL.dir/A2a/orphan.c.obj" \
 "CMakeFiles/OSL.dir/A2a/zombie.c.obj" \
 "CMakeFiles/OSL.dir/A6/A6_lru.c.obj" \
-"CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.obj"
+"CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.obj" \
+"CMakeFiles/OSL.dir/A8/A8_sstf.c.obj" \
+"CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj" \
+"CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj" \
+"CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj" \
+"CMakeFiles/OSL.dir/A2b/parent.c.obj" \
+"CMakeFiles/OSL.dir/A2b/child.c.obj" \
+"CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj"
 
 # External object files for target OSL
 OSL_EXTERNAL_OBJECTS =
 
 OSL.exe: CMakeFiles/OSL.dir/main.c.obj
 OSL.exe: CMakeFiles/OSL.dir/rough.c.obj
-OSL.exe: CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A5/A5.c.obj
-OSL.exe: CMakeFiles/OSL.dir/A8.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A8/A8.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A2a/A2a_orphan.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A2a/A2a_zombie.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A2b/A2b_child.c.obj
@@ -486,7 +584,7 @@ OSL.exe: CMakeFiles/OSL.dir/A2b/A2b_parent.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A3/A3_sjf_without_arrival_time.c.obj
 OSL.exe: CMakeFiles/OSL.dir/rough2.c.obj
 OSL.exe: CMakeFiles/OSL.dir/rough3.c.obj
-OSL.exe: CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj
 OSL.exe: CMakeFiles/OSL.dir/rough4.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A4a/A4a_producer_consumer.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A4b/A4b_reader_writer.c.obj
@@ -502,11 +600,18 @@ OSL.exe: CMakeFiles/OSL.dir/A2a/orphan.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A2a/zombie.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A6/A6_lru.c.obj
 OSL.exe: CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A8/A8_sstf.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A2b/parent.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A2b/child.c.obj
+OSL.exe: CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj
 OSL.exe: CMakeFiles/OSL.dir/build.make
 OSL.exe: CMakeFiles/OSL.dir/linklibs.rsp
 OSL.exe: CMakeFiles/OSL.dir/objects1.rsp
 OSL.exe: CMakeFiles/OSL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking C executable OSL.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Users\USER\CLionProjects\OSL\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking C executable OSL.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\OSL.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

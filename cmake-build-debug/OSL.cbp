@@ -95,10 +95,19 @@
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2b/A2b_parent.c">
 			<Option target="OSL"/>
 		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2b/child.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A2b/parent.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin.c">
+			<Option target="OSL"/>
+		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin.cpp">
 			<Option target="OSL"/>
 		</Unit>
-		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_.c">
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_FINAL.c">
 			<Option target="OSL"/>
 		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_using_queue.c">
@@ -107,7 +116,10 @@
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_sjf_without_arrival_time.c">
 			<Option target="OSL"/>
 		</Unit>
-		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_with_arrival_time.c">
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_FINAL.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_with_arrival_time_FINAL.c">
 			<Option target="OSL"/>
 		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A4a/A4a_producer_consumer.c">
@@ -119,7 +131,13 @@
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A5/A5.c">
 			<Option target="OSL"/>
 		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A5/A5_FINAL.c">
+			<Option target="OSL"/>
+		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A5/A5_bankers_algo.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A6/A6_FINAL.c">
 			<Option target="OSL"/>
 		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A6/A6_fifo.c">
@@ -140,7 +158,10 @@
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/A7b/A7b_writer.c">
 			<Option target="OSL"/>
 		</Unit>
-		<Unit filename="D:/Users/USER/CLionProjects/OSL/A8.c">
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A8/A8.c">
+			<Option target="OSL"/>
+		</Unit>
+		<Unit filename="D:/Users/USER/CLionProjects/OSL/A8/A8_sstf.c">
 			<Option target="OSL"/>
 		</Unit>
 		<Unit filename="D:/Users/USER/CLionProjects/OSL/main.c">

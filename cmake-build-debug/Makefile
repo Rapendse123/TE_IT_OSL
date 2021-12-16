@@ -304,32 +304,113 @@ A2b/A2b_parent.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/A2b_parent.c.s
 .PHONY : A2b/A2b_parent.c.s
 
-A3/A3_round_robin_.obj: A3/A3_round_robin_.c.obj
+A2b/child.obj: A2b/child.c.obj
 
-.PHONY : A3/A3_round_robin_.obj
+.PHONY : A2b/child.obj
 
 # target to build an object file
-A3/A3_round_robin_.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_.c.obj
-.PHONY : A3/A3_round_robin_.c.obj
+A2b/child.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/child.c.obj
+.PHONY : A2b/child.c.obj
 
-A3/A3_round_robin_.i: A3/A3_round_robin_.c.i
+A2b/child.i: A2b/child.c.i
 
-.PHONY : A3/A3_round_robin_.i
+.PHONY : A2b/child.i
 
 # target to preprocess a source file
-A3/A3_round_robin_.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_.c.i
-.PHONY : A3/A3_round_robin_.c.i
+A2b/child.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/child.c.i
+.PHONY : A2b/child.c.i
 
-A3/A3_round_robin_.s: A3/A3_round_robin_.c.s
+A2b/child.s: A2b/child.c.s
 
-.PHONY : A3/A3_round_robin_.s
+.PHONY : A2b/child.s
 
 # target to generate assembly for a file
-A3/A3_round_robin_.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_.c.s
-.PHONY : A3/A3_round_robin_.c.s
+A2b/child.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/child.c.s
+.PHONY : A2b/child.c.s
+
+A2b/parent.obj: A2b/parent.c.obj
+
+.PHONY : A2b/parent.obj
+
+# target to build an object file
+A2b/parent.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/parent.c.obj
+.PHONY : A2b/parent.c.obj
+
+A2b/parent.i: A2b/parent.c.i
+
+.PHONY : A2b/parent.i
+
+# target to preprocess a source file
+A2b/parent.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/parent.c.i
+.PHONY : A2b/parent.c.i
+
+A2b/parent.s: A2b/parent.c.s
+
+.PHONY : A2b/parent.s
+
+# target to generate assembly for a file
+A2b/parent.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A2b/parent.c.s
+.PHONY : A2b/parent.c.s
+
+A3/A3_round_robin.obj: A3/A3_round_robin.c.obj
+
+.PHONY : A3/A3_round_robin.obj
+
+# target to build an object file
+A3/A3_round_robin.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj
+.PHONY : A3/A3_round_robin.c.obj
+
+A3/A3_round_robin.i: A3/A3_round_robin.c.i
+
+.PHONY : A3/A3_round_robin.i
+
+# target to preprocess a source file
+A3/A3_round_robin.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin.c.i
+.PHONY : A3/A3_round_robin.c.i
+
+A3/A3_round_robin.s: A3/A3_round_robin.c.s
+
+.PHONY : A3/A3_round_robin.s
+
+# target to generate assembly for a file
+A3/A3_round_robin.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin.c.s
+.PHONY : A3/A3_round_robin.c.s
+
+A3/A3_round_robin_FINAL.obj: A3/A3_round_robin_FINAL.c.obj
+
+.PHONY : A3/A3_round_robin_FINAL.obj
+
+# target to build an object file
+A3/A3_round_robin_FINAL.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj
+.PHONY : A3/A3_round_robin_FINAL.c.obj
+
+A3/A3_round_robin_FINAL.i: A3/A3_round_robin_FINAL.c.i
+
+.PHONY : A3/A3_round_robin_FINAL.i
+
+# target to preprocess a source file
+A3/A3_round_robin_FINAL.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.i
+.PHONY : A3/A3_round_robin_FINAL.c.i
+
+A3/A3_round_robin_FINAL.s: A3/A3_round_robin_FINAL.c.s
+
+.PHONY : A3/A3_round_robin_FINAL.s
+
+# target to generate assembly for a file
+A3/A3_round_robin_FINAL.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.s
+.PHONY : A3/A3_round_robin_FINAL.c.s
 
 A3/A3_round_robin_using_queue.obj: A3/A3_round_robin_using_queue.c.obj
 
@@ -385,32 +466,59 @@ A3/A3_sjf_without_arrival_time.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_sjf_without_arrival_time.c.s
 .PHONY : A3/A3_sjf_without_arrival_time.c.s
 
-A3/A3_srtf_with_arrival_time.obj: A3/A3_srtf_with_arrival_time.c.obj
+A3/A3_srtf_FINAL.obj: A3/A3_srtf_FINAL.c.obj
 
-.PHONY : A3/A3_srtf_with_arrival_time.obj
+.PHONY : A3/A3_srtf_FINAL.obj
 
 # target to build an object file
-A3/A3_srtf_with_arrival_time.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.obj
-.PHONY : A3/A3_srtf_with_arrival_time.c.obj
+A3/A3_srtf_FINAL.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj
+.PHONY : A3/A3_srtf_FINAL.c.obj
 
-A3/A3_srtf_with_arrival_time.i: A3/A3_srtf_with_arrival_time.c.i
+A3/A3_srtf_FINAL.i: A3/A3_srtf_FINAL.c.i
 
-.PHONY : A3/A3_srtf_with_arrival_time.i
+.PHONY : A3/A3_srtf_FINAL.i
 
 # target to preprocess a source file
-A3/A3_srtf_with_arrival_time.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.i
-.PHONY : A3/A3_srtf_with_arrival_time.c.i
+A3/A3_srtf_FINAL.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.i
+.PHONY : A3/A3_srtf_FINAL.c.i
 
-A3/A3_srtf_with_arrival_time.s: A3/A3_srtf_with_arrival_time.c.s
+A3/A3_srtf_FINAL.s: A3/A3_srtf_FINAL.c.s
 
-.PHONY : A3/A3_srtf_with_arrival_time.s
+.PHONY : A3/A3_srtf_FINAL.s
 
 # target to generate assembly for a file
-A3/A3_srtf_with_arrival_time.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time.c.s
-.PHONY : A3/A3_srtf_with_arrival_time.c.s
+A3/A3_srtf_FINAL.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.s
+.PHONY : A3/A3_srtf_FINAL.c.s
+
+A3/A3_srtf_with_arrival_time_FINAL.obj: A3/A3_srtf_with_arrival_time_FINAL.c.obj
+
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.obj
+
+# target to build an object file
+A3/A3_srtf_with_arrival_time_FINAL.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.c.obj
+
+A3/A3_srtf_with_arrival_time_FINAL.i: A3/A3_srtf_with_arrival_time_FINAL.c.i
+
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.i
+
+# target to preprocess a source file
+A3/A3_srtf_with_arrival_time_FINAL.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.i
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.c.i
+
+A3/A3_srtf_with_arrival_time_FINAL.s: A3/A3_srtf_with_arrival_time_FINAL.c.s
+
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.s
+
+# target to generate assembly for a file
+A3/A3_srtf_with_arrival_time_FINAL.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.s
+.PHONY : A3/A3_srtf_with_arrival_time_FINAL.c.s
 
 A4a/A4a_producer_consumer.obj: A4a/A4a_producer_consumer.c.obj
 
@@ -493,6 +601,33 @@ A5/A5.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A5/A5.c.s
 .PHONY : A5/A5.c.s
 
+A5/A5_FINAL.obj: A5/A5_FINAL.c.obj
+
+.PHONY : A5/A5_FINAL.obj
+
+# target to build an object file
+A5/A5_FINAL.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A5/A5_FINAL.c.obj
+.PHONY : A5/A5_FINAL.c.obj
+
+A5/A5_FINAL.i: A5/A5_FINAL.c.i
+
+.PHONY : A5/A5_FINAL.i
+
+# target to preprocess a source file
+A5/A5_FINAL.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A5/A5_FINAL.c.i
+.PHONY : A5/A5_FINAL.c.i
+
+A5/A5_FINAL.s: A5/A5_FINAL.c.s
+
+.PHONY : A5/A5_FINAL.s
+
+# target to generate assembly for a file
+A5/A5_FINAL.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A5/A5_FINAL.c.s
+.PHONY : A5/A5_FINAL.c.s
+
 A5/A5_bankers_algo.obj: A5/A5_bankers_algo.c.obj
 
 .PHONY : A5/A5_bankers_algo.obj
@@ -519,6 +654,33 @@ A5/A5_bankers_algo.s: A5/A5_bankers_algo.c.s
 A5/A5_bankers_algo.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A5/A5_bankers_algo.c.s
 .PHONY : A5/A5_bankers_algo.c.s
+
+A6/A6_FINAL.obj: A6/A6_FINAL.c.obj
+
+.PHONY : A6/A6_FINAL.obj
+
+# target to build an object file
+A6/A6_FINAL.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A6/A6_FINAL.c.obj
+.PHONY : A6/A6_FINAL.c.obj
+
+A6/A6_FINAL.i: A6/A6_FINAL.c.i
+
+.PHONY : A6/A6_FINAL.i
+
+# target to preprocess a source file
+A6/A6_FINAL.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A6/A6_FINAL.c.i
+.PHONY : A6/A6_FINAL.c.i
+
+A6/A6_FINAL.s: A6/A6_FINAL.c.s
+
+.PHONY : A6/A6_FINAL.s
+
+# target to generate assembly for a file
+A6/A6_FINAL.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A6/A6_FINAL.c.s
+.PHONY : A6/A6_FINAL.c.s
 
 A6/A6_fifo.obj: A6/A6_fifo.c.obj
 
@@ -682,32 +844,59 @@ A7b/A7b_writer.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A7b/A7b_writer.c.s
 .PHONY : A7b/A7b_writer.c.s
 
-A8.obj: A8.c.obj
+A8/A8.obj: A8/A8.c.obj
 
-.PHONY : A8.obj
+.PHONY : A8/A8.obj
 
 # target to build an object file
-A8.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8.c.obj
-.PHONY : A8.c.obj
+A8/A8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8.c.obj
+.PHONY : A8/A8.c.obj
 
-A8.i: A8.c.i
+A8/A8.i: A8/A8.c.i
 
-.PHONY : A8.i
+.PHONY : A8/A8.i
 
 # target to preprocess a source file
-A8.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8.c.i
-.PHONY : A8.c.i
+A8/A8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8.c.i
+.PHONY : A8/A8.c.i
 
-A8.s: A8.c.s
+A8/A8.s: A8/A8.c.s
 
-.PHONY : A8.s
+.PHONY : A8/A8.s
 
 # target to generate assembly for a file
-A8.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8.c.s
-.PHONY : A8.c.s
+A8/A8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8.c.s
+.PHONY : A8/A8.c.s
+
+A8/A8_sstf.obj: A8/A8_sstf.c.obj
+
+.PHONY : A8/A8_sstf.obj
+
+# target to build an object file
+A8/A8_sstf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8_sstf.c.obj
+.PHONY : A8/A8_sstf.c.obj
+
+A8/A8_sstf.i: A8/A8_sstf.c.i
+
+.PHONY : A8/A8_sstf.i
+
+# target to preprocess a source file
+A8/A8_sstf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8_sstf.c.i
+.PHONY : A8/A8_sstf.c.i
+
+A8/A8_sstf.s: A8/A8_sstf.c.s
+
+.PHONY : A8/A8_sstf.s
+
+# target to generate assembly for a file
+A8/A8_sstf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSL.dir\build.make CMakeFiles/OSL.dir/A8/A8_sstf.c.s
+.PHONY : A8/A8_sstf.c.s
 
 main.obj: main.c.obj
 
@@ -925,18 +1114,30 @@ help:
 	@echo ... A2b/A2b_parent.obj
 	@echo ... A2b/A2b_parent.i
 	@echo ... A2b/A2b_parent.s
-	@echo ... A3/A3_round_robin_.obj
-	@echo ... A3/A3_round_robin_.i
-	@echo ... A3/A3_round_robin_.s
+	@echo ... A2b/child.obj
+	@echo ... A2b/child.i
+	@echo ... A2b/child.s
+	@echo ... A2b/parent.obj
+	@echo ... A2b/parent.i
+	@echo ... A2b/parent.s
+	@echo ... A3/A3_round_robin.obj
+	@echo ... A3/A3_round_robin.i
+	@echo ... A3/A3_round_robin.s
+	@echo ... A3/A3_round_robin_FINAL.obj
+	@echo ... A3/A3_round_robin_FINAL.i
+	@echo ... A3/A3_round_robin_FINAL.s
 	@echo ... A3/A3_round_robin_using_queue.obj
 	@echo ... A3/A3_round_robin_using_queue.i
 	@echo ... A3/A3_round_robin_using_queue.s
 	@echo ... A3/A3_sjf_without_arrival_time.obj
 	@echo ... A3/A3_sjf_without_arrival_time.i
 	@echo ... A3/A3_sjf_without_arrival_time.s
-	@echo ... A3/A3_srtf_with_arrival_time.obj
-	@echo ... A3/A3_srtf_with_arrival_time.i
-	@echo ... A3/A3_srtf_with_arrival_time.s
+	@echo ... A3/A3_srtf_FINAL.obj
+	@echo ... A3/A3_srtf_FINAL.i
+	@echo ... A3/A3_srtf_FINAL.s
+	@echo ... A3/A3_srtf_with_arrival_time_FINAL.obj
+	@echo ... A3/A3_srtf_with_arrival_time_FINAL.i
+	@echo ... A3/A3_srtf_with_arrival_time_FINAL.s
 	@echo ... A4a/A4a_producer_consumer.obj
 	@echo ... A4a/A4a_producer_consumer.i
 	@echo ... A4a/A4a_producer_consumer.s
@@ -946,9 +1147,15 @@ help:
 	@echo ... A5/A5.obj
 	@echo ... A5/A5.i
 	@echo ... A5/A5.s
+	@echo ... A5/A5_FINAL.obj
+	@echo ... A5/A5_FINAL.i
+	@echo ... A5/A5_FINAL.s
 	@echo ... A5/A5_bankers_algo.obj
 	@echo ... A5/A5_bankers_algo.i
 	@echo ... A5/A5_bankers_algo.s
+	@echo ... A6/A6_FINAL.obj
+	@echo ... A6/A6_FINAL.i
+	@echo ... A6/A6_FINAL.s
 	@echo ... A6/A6_fifo.obj
 	@echo ... A6/A6_fifo.i
 	@echo ... A6/A6_fifo.s
@@ -967,9 +1174,12 @@ help:
 	@echo ... A7b/A7b_writer.obj
 	@echo ... A7b/A7b_writer.i
 	@echo ... A7b/A7b_writer.s
-	@echo ... A8.obj
-	@echo ... A8.i
-	@echo ... A8.s
+	@echo ... A8/A8.obj
+	@echo ... A8/A8.i
+	@echo ... A8/A8.s
+	@echo ... A8/A8_sstf.obj
+	@echo ... A8/A8_sstf.i
+	@echo ... A8/A8_sstf.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
