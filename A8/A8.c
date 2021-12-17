@@ -75,7 +75,6 @@ void sort() {
 
 
 void scan() {
-
     int index, dir;
     int i;
     distance = 0;
@@ -130,8 +129,6 @@ void scan() {
     }
     printf("End");
     printf("\n Total Distance Traversed=%d", distance);
-
-
 }
 
 

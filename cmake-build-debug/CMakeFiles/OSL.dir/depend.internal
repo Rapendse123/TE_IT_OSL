@@ -13,6 +13,10 @@ CMakeFiles/OSL.dir/A2b/A2b_child.c.obj
  D:/Users/USER/CLionProjects/OSL/A2b/A2b_child.c
 CMakeFiles/OSL.dir/A2b/A2b_parent.c.obj
  D:/Users/USER/CLionProjects/OSL/A2b/A2b_parent.c
+CMakeFiles/OSL.dir/A2b/child.c.obj
+ D:/Users/USER/CLionProjects/OSL/A2b/child.c
+CMakeFiles/OSL.dir/A2b/parent.c.obj
+ D:/Users/USER/CLionProjects/OSL/A2b/parent.c
 CMakeFiles/OSL.dir/A3/A3_round_robin.c.obj
  D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin.c
 CMakeFiles/OSL.dir/A3/A3_round_robin_FINAL.c.obj
@@ -21,6 +25,8 @@ CMakeFiles/OSL.dir/A3/A3_round_robin_using_queue.c.obj
  D:/Users/USER/CLionProjects/OSL/A3/A3_round_robin_using_queue.c
 CMakeFiles/OSL.dir/A3/A3_sjf_without_arrival_time.c.obj
  D:/Users/USER/CLionProjects/OSL/A3/A3_sjf_without_arrival_time.c
+CMakeFiles/OSL.dir/A3/A3_srtf_FINAL.c.obj
+ D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_FINAL.c
 CMakeFiles/OSL.dir/A3/A3_srtf_with_arrival_time_FINAL.c.obj
  D:/Users/USER/CLionProjects/OSL/A3/A3_srtf_with_arrival_time_FINAL.c
 CMakeFiles/OSL.dir/A4a/A4a_producer_consumer.c.obj
